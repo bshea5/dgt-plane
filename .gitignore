@@ -1,0 +1,9 @@
+*.gem
+*.rbc
+
+docs
+tmp
+logs
+
+/.config
+.env
